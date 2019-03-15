@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1512570881 source:/home/giovane/Documentos/IFNMG 2017/Lab PAA/Estudos extras/Karatsuba_Ofman_Teste/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bigNum.h"
+
+1512570789 /home/giovane/Documentos/IFNMG 2017/Lab PAA/Estudos extras/Karatsuba_Ofman_Teste/bigNum.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1512665554 source:c:\users\ifnmg\desktop\karatsuba_ofman_teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bigNum.h"
+
+1512665554 c:\users\ifnmg\desktop\karatsuba_ofman_teste\bignum.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
